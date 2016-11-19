@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
+#menu-0 .brand > span > a {
+	font-family: 'Oswald', sans-serif !important;
+}
+#menu-0 A {
+	font-size: 18px !important;
+}
+#header1-2 H1 {
+	font-family: 'Yanone Kaffeesatz', sans-serif !important;
+}
